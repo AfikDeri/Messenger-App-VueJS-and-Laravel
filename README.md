@@ -63,8 +63,8 @@ npm run watch
 ## Setup pusher
 
 - Visit [Pusher website](https://pusher.com), sign up and create your first app (it's free).
-- Next. copy the new keys to yhour `.env` file.
-- Make sure the following settings are enabled
+- Next. copy the new keys to your `.env` file.
+- Make sure the necessary settings are enabled
 ![Pusher app settings](https://user-images.githubusercontent.com/17595033/64108972-fb7b8a00-cd86-11e9-97ab-d2a3f7699b71.png)
 
 Good Luck :)
